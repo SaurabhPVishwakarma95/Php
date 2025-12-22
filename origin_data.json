@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "origin": {
+            "name": "India",
+            "India": {
+                "currency": "inr",
+                "scarcity_in": {
+                    "type_a": "Playground",
+                    "type_b": "Road Development",
+                    "type_c": "Cleanliness",
+                    "type_d": "Pollution"
+                },
+                "development_in": {
+                    "type_a": "Job",
+                    "type_b": "Entrepreneurship",
+                    "type_c": "Research"                
+                },
+                "bpr": "Moderate reduction",
+                "earning": "Moderately High"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "origin": {
+            "name": "Finland",
+            "India": {
+                "currency": "eur",
+                "scarcity_in": {
+                    "type_a": "Population",
+                    "type_b": "Democracy",
+                    "type_c": "Spice Meal Scarcity"
+                },
+                "development_in": {
+                    "type_a": "Job",
+                    "type_b": "Entrepreneurship",
+                    "type_c": "Research"                
+                },
+                "bpr": "Minimum",
+                "earning": "Robust"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "origin": {
+            "name": "Sweden",
+            "India": {
+                "currency": "krona",
+                "scarcity_in": {
+                    "type_a": "Population",
+                    "type_b": "Democracy",
+                    "type_c": "Spice Meal Scarcity"
+                },
+                "development_in": {
+                    "type_a": "Job",
+                    "type_b": "Entrepreneurship",
+                    "type_c": "Research"                
+                },
+                "bpr": "Minimum",
+                "earning": "Robust"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "origin": {
+            "name": "Germany",
+            "India": {
+                "currency": "eur",
+                "scarcity_in": {
+                    "type_a": "Population",
+                    "type_b": "Democracy",
+                    "type_c": "Spice Meal Scarcity",
+                    "type_d": "Time Scarcity"
+                },
+                "development_in": {
+                    "type_a": "Job",
+                    "type_b": "Entrepreneurship",
+                    "type_c": "Research"                
+                },
+                "bpr": "Minimum",
+                "earning": "Robust"
+            }
+        }
+    },
+
+    {
+        "id": 5,
+        "origin": {
+            "name": "Japan",
+            "India": {
+                "currency": "yen",
+                "scarcity_in": {
+                    "type_a": "Spice Meal Scarcity",
+                    "type_b": "Time Scarcity"
+                },
+                "development_in": {
+                    "type_a": "Job",
+                    "type_b": "Entrepreneurship",
+                    "type_c": "Research"                
+                },
+                "bpr": "Minimum",
+                "earning": "Robust"
+            }
+        }
+    }
+]
